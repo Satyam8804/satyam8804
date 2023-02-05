@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"> <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47y6tc44zcnmzfa9v66zec8odswiijrwv92wnuxzpm&rid=giphy.gif&ct=g"></img></div>
+<div style="width:200px;height:200px;padding-bottom:50px;position:relative; self-align:center;"> <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47y6tc44zcnmzfa9v66zec8odswiijrwv92wnuxzpm&rid=giphy.gif&ct=g"></img></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satyam8804&label=Profile%20views&color=0e75b6&style=flat" alt="satyam8804" /> </p>
 
